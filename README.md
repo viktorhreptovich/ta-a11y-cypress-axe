@@ -1,1 +1,3 @@
-# ta-a11y-cypress-axe
+# Test Automation University
+## Course: Test Automation for Accessibility
+https://testautomationu.applitools.com/accessibility-testing-tutorial/
